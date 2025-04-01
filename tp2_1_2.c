@@ -12,7 +12,8 @@ int i;
     double *puntero = vt;  
 
     for(i = 0; i < N; i++) {
-        *(puntero + i) = 1 + rand() % 100;  
+        *(puntero + i) = 1 + rand() % 100;
+        
         printf(" -  %.0f \n",*(puntero + i));  
     }
 
