@@ -1,0 +1,9 @@
+En la rama main agregue un nuevo archivo que se llame Respuestas.txt y realice
+un commit para agregar este archivo al repositorio.
+● En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+    Resp:Me aparecen cambios solamente en la rama Main.
+
+
+Preg: En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+    Resp: Se agregaron los archivos de la rama 2 en la rama Main.
+
